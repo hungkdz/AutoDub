@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "min_version": "1.0.0",
+  "exe_url": "https://github.com/hungkdz/AutoDub/releases/download/1.0/AutoDubbyHung.exe",
+  "exe_filename": "AutoDubbyHung.exe",
+  "internal_zip_url": "https://github.com/hungkdz/AutoDub/releases/download/1.0/_internal.zip",
+  "internal_folder": "_internal",
+  "changelog": "- Initial release\n- Support for video dubbing\n- Multiple language support\n- Batch processing capabilities",
+  "release_date": "2026-07-21"
+}
