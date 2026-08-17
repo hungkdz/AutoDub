@@ -1,12 +1,8 @@
 {
   "version": "1.0.1",
   "min_version": "1.0.1",
-  "exe_url": "https://github.com/hungkdz/AutoDub/releases/download/1.0/AutoDubbyHung.exe",
-  "exe_filename": "AutoDubbyHung.exe",
-  "internal_zip_url": "https://github.com/hungkdz/AutoDub/releases/download/1.0/_internal.zip",
-  "internal_folder": "_internal",
+  "app_zipped": "https://github.com/hungkdz/AutoDub/releases/download/1.0/Hisub.zip",
   "changelog": "- Initial release\n- Support for video dubbing\n- Multiple language support\n- Batch processing capabilities",
-  "release_date": "2026-07-21",
   "ffmpeg_url": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip",
   "ffmpeg_folder": "ffmpeg",
   "install_ffmpeg": true
