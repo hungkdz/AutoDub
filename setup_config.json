@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "min_version": "1.0.1",
-  "app_zipped": "https://github.com/hungkdz/AutoDub/releases/download/1.0/Hisub.zip",
+  "app_zipped": "https://github.com/hungkdz/AutoDub/releases/download/1.0/HiSub.zip",
   "changelog": "- Initial release\n- Support for video dubbing\n- Multiple language support\n- Batch processing capabilities",
   "ffmpeg_url": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip",
   "ffmpeg_folder": "ffmpeg",
