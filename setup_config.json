@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.36",
   "min_version": "1.0.5",
   "app_zipped": "https://github.com/hungkdz/AutoDub/releases/download/1.0/HiSub.zip",
   "changelog": "- Initial release\n- Support for video dubbing\n- Multiple language support\n- Batch processing capabilities",
