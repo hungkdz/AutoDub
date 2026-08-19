@@ -2,7 +2,7 @@
   "version": "1.36",
   "min_version": "1.0.5",
   "app_zipped": "https://github.com/hungkdz/AutoDub/releases/download/1.0/HiSub.zip",
-  "changelog": "- Initial release\n- Support for video dubbing\n- Multiple language support\n- Batch processing capabilities",
+  "changelog": "- Tự động trích xuất phụ đề\n- Tự động dịch với Gemini\n- Tự động lồng tiếng\n- Cho phép thêm phụ đề, logo, làm mờ",
   "ffmpeg_url": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip",
   "ffmpeg_folder": "ffmpeg",
   "install_ffmpeg": true
